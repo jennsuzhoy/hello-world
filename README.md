@@ -1,2 +1,2 @@
 # hello-world
-Just another basic repository
+jhoysi here, finally learning how to properly use GitHub. I think it's about time, don't you?
